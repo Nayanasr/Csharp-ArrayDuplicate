@@ -1,0 +1,14 @@
+C:\Users\107012\source\repos\ArrayDuplicate\ArrayDuplicate\bin\Debug\netcoreapp3.1\ArrayDuplicate.exe
+C:\Users\107012\source\repos\ArrayDuplicate\ArrayDuplicate\bin\Debug\netcoreapp3.1\ArrayDuplicate.deps.json
+C:\Users\107012\source\repos\ArrayDuplicate\ArrayDuplicate\bin\Debug\netcoreapp3.1\ArrayDuplicate.runtimeconfig.json
+C:\Users\107012\source\repos\ArrayDuplicate\ArrayDuplicate\bin\Debug\netcoreapp3.1\ArrayDuplicate.runtimeconfig.dev.json
+C:\Users\107012\source\repos\ArrayDuplicate\ArrayDuplicate\bin\Debug\netcoreapp3.1\ArrayDuplicate.dll
+C:\Users\107012\source\repos\ArrayDuplicate\ArrayDuplicate\bin\Debug\netcoreapp3.1\ArrayDuplicate.pdb
+C:\Users\107012\source\repos\ArrayDuplicate\ArrayDuplicate\obj\Debug\netcoreapp3.1\ArrayDuplicate.csproj.AssemblyReference.cache
+C:\Users\107012\source\repos\ArrayDuplicate\ArrayDuplicate\obj\Debug\netcoreapp3.1\ArrayDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107012\source\repos\ArrayDuplicate\ArrayDuplicate\obj\Debug\netcoreapp3.1\ArrayDuplicate.AssemblyInfoInputs.cache
+C:\Users\107012\source\repos\ArrayDuplicate\ArrayDuplicate\obj\Debug\netcoreapp3.1\ArrayDuplicate.AssemblyInfo.cs
+C:\Users\107012\source\repos\ArrayDuplicate\ArrayDuplicate\obj\Debug\netcoreapp3.1\ArrayDuplicate.csproj.CoreCompileInputs.cache
+C:\Users\107012\source\repos\ArrayDuplicate\ArrayDuplicate\obj\Debug\netcoreapp3.1\ArrayDuplicate.dll
+C:\Users\107012\source\repos\ArrayDuplicate\ArrayDuplicate\obj\Debug\netcoreapp3.1\ArrayDuplicate.pdb
+C:\Users\107012\source\repos\ArrayDuplicate\ArrayDuplicate\obj\Debug\netcoreapp3.1\ArrayDuplicate.genruntimeconfig.cache
